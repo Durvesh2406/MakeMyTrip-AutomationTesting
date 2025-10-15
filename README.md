@@ -31,20 +31,18 @@ This project automates flight search interactions on [MakeMyTrip](https://www.ma
 
 3. **Run the script**
    - Use your IDE or run via terminal
-     - ```bash
+   ```bash
           javac MakeMyTripAutomation.java
           java com.makemytrip.MakeMyTripAutomation
-    + ```
+   ```
 
 ## 📁 Project Structure
-        + ```
-        + makemytrip-automation/
-        + ├── src/
-        + │   └── com/
-        + │       └── makemytrip/
-        + │           └── MakeMyTripAutomation.java
-        + ├── README.md
-        + ```
+        makemytrip-automation/
+        ├── src/
+        │   └── com/
+        │       └── makemytrip/
+        │           └── MakeMyTripAutomation.java
+        ├── README.md
 
 
 ## 🧪 Future Enhancements
